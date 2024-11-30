@@ -1,9 +1,5 @@
-# A real-time chat application allowing users to text each other, share images, and stay connected with real-time updates.
-
-
-
-
-Highlights:
+# Chatto
+A real-time chat application allowing users to text each other, share images, and stay connected with real-time updates.
 ## Highlights
 
 - **Tech Stack**: MERN (MongoDB, Express, React, Node.js) + Socket.io + TailwindCSS + Daisy UI
