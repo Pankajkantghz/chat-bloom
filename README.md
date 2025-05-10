@@ -1,4 +1,4 @@
-# Chatto
+# Chatty
 A real-time chat application allowing users to text each other, share images, and stay connected with real-time updates.
 ## Highlights
 
